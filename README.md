@@ -1,4 +1,6 @@
 # git-workflows
+by Jeremy Hopple
+
 A meetup on github workflows
 
 
